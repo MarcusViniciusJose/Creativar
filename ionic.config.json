@@ -1,0 +1,7 @@
+{
+  "name": "Creativar",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
