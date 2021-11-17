@@ -1,0 +1,7 @@
+{
+  "name": "cadastroApp",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
